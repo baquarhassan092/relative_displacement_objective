@@ -1,0 +1,201 @@
+Condition,Timestep,Time (s),ADE_at_t (m)
+Baseline 1: Zero-fill,1,0.1,0.979
+Baseline 1: Zero-fill,2,0.2,1.169
+Baseline 1: Zero-fill,3,0.3,1.351
+Baseline 1: Zero-fill,4,0.4,1.535
+Baseline 1: Zero-fill,5,0.5,1.722
+Baseline 1: Zero-fill,6,0.6,1.905
+Baseline 1: Zero-fill,7,0.7,2.089
+Baseline 1: Zero-fill,8,0.8,2.27
+Baseline 1: Zero-fill,9,0.9,2.456
+Baseline 1: Zero-fill,10,1.0,2.639
+Baseline 1: Zero-fill,11,1.1,2.824
+Baseline 1: Zero-fill,12,1.2,3.009
+Baseline 1: Zero-fill,13,1.3,3.194
+Baseline 1: Zero-fill,14,1.4,3.378
+Baseline 1: Zero-fill,15,1.5,3.559
+Baseline 1: Zero-fill,16,1.6,3.747
+Baseline 1: Zero-fill,17,1.7,3.931
+Baseline 1: Zero-fill,18,1.8,4.117
+Baseline 1: Zero-fill,19,1.9,4.305
+Baseline 1: Zero-fill,20,2.0,4.493
+Baseline 1: Zero-fill,21,2.1,4.674
+Baseline 1: Zero-fill,22,2.2,4.861
+Baseline 1: Zero-fill,23,2.3,5.045
+Baseline 1: Zero-fill,24,2.4,5.231
+Baseline 1: Zero-fill,25,2.5,5.419
+Baseline 1: Zero-fill,26,2.6,5.606
+Baseline 1: Zero-fill,27,2.7,5.795
+Baseline 1: Zero-fill,28,2.8,5.979
+Baseline 1: Zero-fill,29,2.9,6.167
+Baseline 1: Zero-fill,30,3.0,6.353
+Baseline 1: Zero-fill,31,3.1,6.543
+Baseline 1: Zero-fill,32,3.2,6.734
+Baseline 1: Zero-fill,33,3.3,6.922
+Baseline 1: Zero-fill,34,3.4,7.113
+Baseline 1: Zero-fill,35,3.5,7.303
+Baseline 1: Zero-fill,36,3.6,7.489
+Baseline 1: Zero-fill,37,3.7,7.677
+Baseline 1: Zero-fill,38,3.8,7.867
+Baseline 1: Zero-fill,39,3.9,8.054
+Baseline 1: Zero-fill,40,4.0,8.241
+Baseline 1: Zero-fill,41,4.1,8.43
+Baseline 1: Zero-fill,42,4.2,8.619
+Baseline 1: Zero-fill,43,4.3,8.81
+Baseline 1: Zero-fill,44,4.4,9.001
+Baseline 1: Zero-fill,45,4.5,9.193
+Baseline 1: Zero-fill,46,4.6,9.383
+Baseline 1: Zero-fill,47,4.7,9.574
+Baseline 1: Zero-fill,48,4.8,9.765
+Baseline 1: Zero-fill,49,4.9,9.957
+Baseline 1: Zero-fill,50,5.0,10.149
+Baseline 5: Spline Interpolation,1,0.1,0.827
+Baseline 5: Spline Interpolation,2,0.2,0.859
+Baseline 5: Spline Interpolation,3,0.3,0.892
+Baseline 5: Spline Interpolation,4,0.4,0.926
+Baseline 5: Spline Interpolation,5,0.5,0.963
+Baseline 5: Spline Interpolation,6,0.6,1.001
+Baseline 5: Spline Interpolation,7,0.7,1.032
+Baseline 5: Spline Interpolation,8,0.8,1.062
+Baseline 5: Spline Interpolation,9,0.9,1.095
+Baseline 5: Spline Interpolation,10,1.0,1.129
+Baseline 5: Spline Interpolation,11,1.1,1.16
+Baseline 5: Spline Interpolation,12,1.2,1.191
+Baseline 5: Spline Interpolation,13,1.3,1.222
+Baseline 5: Spline Interpolation,14,1.4,1.256
+Baseline 5: Spline Interpolation,15,1.5,1.287
+Baseline 5: Spline Interpolation,16,1.6,1.331
+Baseline 5: Spline Interpolation,17,1.7,1.367
+Baseline 5: Spline Interpolation,18,1.8,1.402
+Baseline 5: Spline Interpolation,19,1.9,1.442
+Baseline 5: Spline Interpolation,20,2.0,1.479
+Baseline 5: Spline Interpolation,21,2.1,1.516
+Baseline 5: Spline Interpolation,22,2.2,1.552
+Baseline 5: Spline Interpolation,23,2.3,1.594
+Baseline 5: Spline Interpolation,24,2.4,1.637
+Baseline 5: Spline Interpolation,25,2.5,1.681
+Baseline 5: Spline Interpolation,26,2.6,1.732
+Baseline 5: Spline Interpolation,27,2.7,1.781
+Baseline 5: Spline Interpolation,28,2.8,1.832
+Baseline 5: Spline Interpolation,29,2.9,1.887
+Baseline 5: Spline Interpolation,30,3.0,1.937
+Baseline 5: Spline Interpolation,31,3.1,1.989
+Baseline 5: Spline Interpolation,32,3.2,2.047
+Baseline 5: Spline Interpolation,33,3.3,2.093
+Baseline 5: Spline Interpolation,34,3.4,2.147
+Baseline 5: Spline Interpolation,35,3.5,2.204
+Baseline 5: Spline Interpolation,36,3.6,2.256
+Baseline 5: Spline Interpolation,37,3.7,2.314
+Baseline 5: Spline Interpolation,38,3.8,2.37
+Baseline 5: Spline Interpolation,39,3.9,2.43
+Baseline 5: Spline Interpolation,40,4.0,2.496
+Baseline 5: Spline Interpolation,41,4.1,2.56
+Baseline 5: Spline Interpolation,42,4.2,2.618
+Baseline 5: Spline Interpolation,43,4.3,2.687
+Baseline 5: Spline Interpolation,44,4.4,2.753
+Baseline 5: Spline Interpolation,45,4.5,2.814
+Baseline 5: Spline Interpolation,46,4.6,2.885
+Baseline 5: Spline Interpolation,47,4.7,2.957
+Baseline 5: Spline Interpolation,48,4.8,3.03
+Baseline 5: Spline Interpolation,49,4.9,3.101
+Baseline 5: Spline Interpolation,50,5.0,3.181
+Condition B: Channel 1 Only,1,0.1,0.973
+Condition B: Channel 1 Only,2,0.2,1.159
+Condition B: Channel 1 Only,3,0.3,1.339
+Condition B: Channel 1 Only,4,0.4,1.522
+Condition B: Channel 1 Only,5,0.5,1.707
+Condition B: Channel 1 Only,6,0.6,1.887
+Condition B: Channel 1 Only,7,0.7,2.069
+Condition B: Channel 1 Only,8,0.8,2.248
+Condition B: Channel 1 Only,9,0.9,2.431
+Condition B: Channel 1 Only,10,1.0,2.612
+Condition B: Channel 1 Only,11,1.1,2.794
+Condition B: Channel 1 Only,12,1.2,2.976
+Condition B: Channel 1 Only,13,1.3,3.161
+Condition B: Channel 1 Only,14,1.4,3.343
+Condition B: Channel 1 Only,15,1.5,3.521
+Condition B: Channel 1 Only,16,1.6,3.702
+Condition B: Channel 1 Only,17,1.7,3.881
+Condition B: Channel 1 Only,18,1.8,4.064
+Condition B: Channel 1 Only,19,1.9,4.243
+Condition B: Channel 1 Only,20,2.0,4.425
+Condition B: Channel 1 Only,21,2.1,4.602
+Condition B: Channel 1 Only,22,2.2,4.787
+Condition B: Channel 1 Only,23,2.3,4.966
+Condition B: Channel 1 Only,24,2.4,5.145
+Condition B: Channel 1 Only,25,2.5,5.329
+Condition B: Channel 1 Only,26,2.6,5.509
+Condition B: Channel 1 Only,27,2.7,5.69
+Condition B: Channel 1 Only,28,2.8,5.87
+Condition B: Channel 1 Only,29,2.9,6.051
+Condition B: Channel 1 Only,30,3.0,6.233
+Condition B: Channel 1 Only,31,3.1,6.413
+Condition B: Channel 1 Only,32,3.2,6.595
+Condition B: Channel 1 Only,33,3.3,6.778
+Condition B: Channel 1 Only,34,3.4,6.961
+Condition B: Channel 1 Only,35,3.5,7.146
+Condition B: Channel 1 Only,36,3.6,7.326
+Condition B: Channel 1 Only,37,3.7,7.506
+Condition B: Channel 1 Only,38,3.8,7.688
+Condition B: Channel 1 Only,39,3.9,7.868
+Condition B: Channel 1 Only,40,4.0,8.048
+Condition B: Channel 1 Only,41,4.1,8.231
+Condition B: Channel 1 Only,42,4.2,8.413
+Condition B: Channel 1 Only,43,4.3,8.598
+Condition B: Channel 1 Only,44,4.4,8.78
+Condition B: Channel 1 Only,45,4.5,8.963
+Condition B: Channel 1 Only,46,4.6,9.143
+Condition B: Channel 1 Only,47,4.7,9.324
+Condition B: Channel 1 Only,48,4.8,9.507
+Condition B: Channel 1 Only,49,4.9,9.692
+Condition B: Channel 1 Only,50,5.0,9.876
+Condition C: Dual-Channel (Proposed),1,0.1,0.296
+Condition C: Dual-Channel (Proposed),2,0.2,0.307
+Condition C: Dual-Channel (Proposed),3,0.3,0.315
+Condition C: Dual-Channel (Proposed),4,0.4,0.324
+Condition C: Dual-Channel (Proposed),5,0.5,0.336
+Condition C: Dual-Channel (Proposed),6,0.6,0.345
+Condition C: Dual-Channel (Proposed),7,0.7,0.354
+Condition C: Dual-Channel (Proposed),8,0.8,0.362
+Condition C: Dual-Channel (Proposed),9,0.9,0.375
+Condition C: Dual-Channel (Proposed),10,1.0,0.386
+Condition C: Dual-Channel (Proposed),11,1.1,0.396
+Condition C: Dual-Channel (Proposed),12,1.2,0.406
+Condition C: Dual-Channel (Proposed),13,1.3,0.418
+Condition C: Dual-Channel (Proposed),14,1.4,0.43
+Condition C: Dual-Channel (Proposed),15,1.5,0.441
+Condition C: Dual-Channel (Proposed),16,1.6,0.452
+Condition C: Dual-Channel (Proposed),17,1.7,0.462
+Condition C: Dual-Channel (Proposed),18,1.8,0.475
+Condition C: Dual-Channel (Proposed),19,1.9,0.488
+Condition C: Dual-Channel (Proposed),20,2.0,0.502
+Condition C: Dual-Channel (Proposed),21,2.1,0.515
+Condition C: Dual-Channel (Proposed),22,2.2,0.53
+Condition C: Dual-Channel (Proposed),23,2.3,0.546
+Condition C: Dual-Channel (Proposed),24,2.4,0.562
+Condition C: Dual-Channel (Proposed),25,2.5,0.579
+Condition C: Dual-Channel (Proposed),26,2.6,0.597
+Condition C: Dual-Channel (Proposed),27,2.7,0.615
+Condition C: Dual-Channel (Proposed),28,2.8,0.631
+Condition C: Dual-Channel (Proposed),29,2.9,0.649
+Condition C: Dual-Channel (Proposed),30,3.0,0.667
+Condition C: Dual-Channel (Proposed),31,3.1,0.686
+Condition C: Dual-Channel (Proposed),32,3.2,0.707
+Condition C: Dual-Channel (Proposed),33,3.3,0.728
+Condition C: Dual-Channel (Proposed),34,3.4,0.749
+Condition C: Dual-Channel (Proposed),35,3.5,0.773
+Condition C: Dual-Channel (Proposed),36,3.6,0.795
+Condition C: Dual-Channel (Proposed),37,3.7,0.817
+Condition C: Dual-Channel (Proposed),38,3.8,0.841
+Condition C: Dual-Channel (Proposed),39,3.9,0.866
+Condition C: Dual-Channel (Proposed),40,4.0,0.892
+Condition C: Dual-Channel (Proposed),41,4.1,0.919
+Condition C: Dual-Channel (Proposed),42,4.2,0.945
+Condition C: Dual-Channel (Proposed),43,4.3,0.976
+Condition C: Dual-Channel (Proposed),44,4.4,1.004
+Condition C: Dual-Channel (Proposed),45,4.5,1.032
+Condition C: Dual-Channel (Proposed),46,4.6,1.06
+Condition C: Dual-Channel (Proposed),47,4.7,1.089
+Condition C: Dual-Channel (Proposed),48,4.8,1.118
+Condition C: Dual-Channel (Proposed),49,4.9,1.15
+Condition C: Dual-Channel (Proposed),50,5.0,1.183

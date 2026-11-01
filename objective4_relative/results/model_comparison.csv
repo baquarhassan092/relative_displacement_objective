@@ -1,0 +1,5 @@
+condition,samples,objective1_ADE_m,objective1_FDE_m,objective4_ADE_m,objective4_FDE_m,ADE_improvement_percent,FDE_improvement_percent
+zero_fill,2685,15.991722,33.572941,5.532564,10.149118,65.403576,69.769947
+spline_interpolation,2685,13.447794,29.058762,1.820077,3.181461,86.465609,89.051629
+channel1_only,2685,6.604807,11.650481,5.421925,9.875808,17.909411,15.232616
+dual_channel,2685,2.305344,3.759109,0.641816,1.183260,72.159643,68.522860

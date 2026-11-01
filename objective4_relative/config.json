@@ -1,0 +1,55 @@
+{
+  "project_name": "Objective 4 Relative - Column 6 Missingness and Bias Quantification",
+  "data_folder_name": "data_corrupted",
+  "sumo_folder_name": "sumo",
+  "scenarios": [
+    "penetration_10",
+    "penetration_20",
+    "penetration_30"
+  ],
+
+  "reference_penetration_scenario": "penetration_20",
+  "train_seed_start": 1,
+  "train_seed_end": 14,
+  "validation_seed_start": 15,
+  "validation_seed_end": 16,
+  "test_seed_start": 17,
+  "test_seed_end": 20,
+  "input_key": "X_gt",
+  "target_key": "Y",
+  "input_dim": 7,
+  "history_steps": 30,
+  "output_steps": 50,
+  "output_dim": 2,
+  "column6_index": 6,
+  "mask_source_scenario": "penetration_20",
+  "mask_source_seed_start": 1,
+  "mask_source_seed_end": 14,
+  "masking_strategy": "independent_bernoulli",
+  "mask_probability_source": "measured_column6_absence_rate",
+  "training_mask_seed": 42,
+  "validation_mask_seed": 43,
+  "test_mask_seed": 99,
+  "hidden_dim": 128,
+  "num_layers": 2,
+  "batch_size": 128,
+  "epochs": 30,
+  "learning_rate": 0.001,
+  "random_seed": 42,
+  "training_initialization": "objective1_pretrained_checkpoint",
+  "base_checkpoint_relative_path": "objective1/checkpoints/relative_displacement_lstm.pt",
+
+  "missing_value_handling": "physical_zero_fill_before_normalization",
+
+  "checkpoint_filename": "relative_displacement_col6.pt",
+  "results_filename": "objective4_relative_metrics.csv",
+  "comparison_filename": "objective4_relative_bias_comparison.csv",
+  "epoch_history_filename": "training_history.csv",
+  "summary_filename": "run_summary.json",
+
+  "evaluate_original_baseline": true,
+
+  "results_folder": "results",
+  "checkpoints_folder": "checkpoints",
+  "logs_folder": "logs"
+}

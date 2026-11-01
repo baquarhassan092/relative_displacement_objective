@@ -1,0 +1,5 @@
+Condition,final_step_ego_position_missing_fraction,observed_anchor_mean_error_m,observed_anchor_median_error_m,observed_anchor_max_error_m
+Baseline 1: Zero-fill,0.10167597765363129,0.790722131729126,0.0,34.37255859375
+Baseline 5: Spline Interpolation,0.0,0.790722131729126,0.0,34.37255859375
+Condition B: Channel 1 Only,0.10167597765363129,0.790722131729126,0.0,34.37255859375
+Condition C: Dual-Channel (Proposed),0.0,0.28572967648506165,0.0,24.706689834594727

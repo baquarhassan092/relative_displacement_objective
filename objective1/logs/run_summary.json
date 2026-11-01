@@ -1,0 +1,15 @@
+{
+  "experiment": "Objective 1 - Relative-displacement LSTM",
+  "input_key": "X_gt",
+  "train_seeds": "1-14",
+  "validation_seeds": "15-16",
+  "test_seeds": "17-20",
+  "scenarios": "penetration_10;penetration_20;penetration_30",
+  "architecture": "2-layer LSTM, hidden_dim=128",
+  "epochs_configured": 30,
+  "best_validation_mse": 0.3491335952158777,
+  "ADE_m": 0.3816879391670227,
+  "FDE_m": 0.9337247014045715,
+  "test_samples": 8084,
+  "checkpoint": "objective1\\checkpoints\\relative_displacement_lstm.pt"
+}

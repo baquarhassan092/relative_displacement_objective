@@ -1,0 +1,25 @@
+Scenario,Seed,Model,Samples,ADE_m,FDE_m
+penetration_10,17,Original absolute-coordinate LSTM,335,1.2219301462173462,1.8361365795135498
+penetration_10,17,Relative-displacement LSTM,335,0.3670347332954407,0.9047187566757202
+penetration_10,18,Original absolute-coordinate LSTM,341,1.1557915210723877,1.7072080373764038
+penetration_10,18,Relative-displacement LSTM,341,0.38187333941459656,0.9291270971298218
+penetration_10,19,Original absolute-coordinate LSTM,337,1.1189749240875244,1.6821696758270264
+penetration_10,19,Relative-displacement LSTM,337,0.3815549612045288,0.9348282814025879
+penetration_10,20,Original absolute-coordinate LSTM,335,1.0916413068771362,1.5168880224227905
+penetration_10,20,Relative-displacement LSTM,335,0.3532978892326355,0.8780078291893005
+penetration_20,17,Original absolute-coordinate LSTM,669,1.1945972442626953,1.7237215042114258
+penetration_20,17,Relative-displacement LSTM,669,0.43439868092536926,1.077978253364563
+penetration_20,18,Original absolute-coordinate LSTM,679,1.2995392084121704,1.8599168062210083
+penetration_20,18,Relative-displacement LSTM,679,0.43327796459198,1.0720772743225098
+penetration_20,19,Original absolute-coordinate LSTM,675,1.157341718673706,1.6831467151641846
+penetration_20,19,Relative-displacement LSTM,675,0.36626604199409485,0.8633431196212769
+penetration_20,20,Original absolute-coordinate LSTM,662,1.056136131286621,1.5134197473526
+penetration_20,20,Relative-displacement LSTM,662,0.3625423014163971,0.9036591649055481
+penetration_30,17,Original absolute-coordinate LSTM,1014,1.0490158796310425,1.5404657125473022
+penetration_30,17,Relative-displacement LSTM,1014,0.3928597569465637,0.9526064395904541
+penetration_30,18,Original absolute-coordinate LSTM,1008,1.0705593824386597,1.5080373287200928
+penetration_30,18,Relative-displacement LSTM,1008,0.3986745774745941,0.9875962734222412
+penetration_30,19,Original absolute-coordinate LSTM,1025,1.1388514041900635,1.5974433422088623
+penetration_30,19,Relative-displacement LSTM,1025,0.38405248522758484,0.9282935261726379
+penetration_30,20,Original absolute-coordinate LSTM,1004,0.9744231104850769,1.375959038734436
+penetration_30,20,Relative-displacement LSTM,1004,0.3182592988014221,0.7730280160903931

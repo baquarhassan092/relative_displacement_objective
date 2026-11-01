@@ -1,0 +1,2 @@
+experiment,input_key,train_seeds,validation_seeds,test_seeds,scenarios,architecture,epochs_configured,best_validation_mse,ADE_m,FDE_m,test_samples,checkpoint
+Objective 1 - Relative-displacement LSTM,X_gt,1-14,15-16,17-20,penetration_10;penetration_20;penetration_30,"2-layer LSTM, hidden_dim=128",30,0.3491335952158777,0.3816879391670227,0.9337247014045715,8084,objective1\checkpoints\relative_displacement_lstm.pt
